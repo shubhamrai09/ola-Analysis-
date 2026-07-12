@@ -1,4 +1,4 @@
-# 🚖 Ola Ride Analytics Dashboard | Power BI
+<img width="1075" height="592" alt="Ola_project (0)" src="https://github.com/user-attachments/assets/b6905637-3776-4b85-88b4-40a9d3410fef" /># 🚖 Ola Ride Analytics Dashboard | Power BI
 
 ## 📌 Project Overview
 
@@ -137,7 +137,8 @@ Ola-Ride-Analytics/
 ## 📸 Dashboard Preview
 
 <img src="C:\Users\Shubham\OneDrive\Pictures\Screenshots\Ola_project (0).png" alt="Dashboard" width="700">
-
+<img width="1885" height="920" alt<img width="1075" height="592" alt="Ola_project (0)" src="https://github.com/user-attachments/assets/4e6a0158-dd48-467e-90d2-a8ae0ba9e849" />
+ src="https://github.com/user-attachments/assets/4f49ac0d-4bb2-49c8-9207-27959f4724f4" />
 ## 📚 Learning Outcomes
 
 This project helped strengthen my understanding of:
