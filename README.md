@@ -1,4 +1,4 @@
-<img width="1075" height="592" alt="Ola_project (0)" src="https://github.com/user-attachments/assets/b6905637-3776-4b85-88b4-40a9d3410fef" /># 🚖 Ola Ride Analytics Dashboard | Power BI
+# 🚖 Ola Ride Analytics Dashboard | Power BI
 
 ## 📌 Project Overview
 
