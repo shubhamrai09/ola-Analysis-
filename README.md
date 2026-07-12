@@ -136,20 +136,7 @@ Ola-Ride-Analytics/
 
 ## 📸 Dashboard Preview
 
-> Add dashboard screenshots inside the **Screenshots** folder and replace this section with images.
-
-Example:
-
-```
-Screenshots/
-<img width="1885" height="920" alt="C:\Users\Shubham\OneDrive\Pictures\Screenshots\Ola_project (0).png" src="https://github.com/user-attachments/assets/4f49ac0d-4bb2-49c8-9207-27959f4724f4" />
-├── Vehicle Type.png
-├── Revenue.png
-├── Cancellation.png
-└── Rating.png
-```
-
----
+<img src="C:\Users\Shubham\OneDrive\Pictures\Screenshots\Ola_project (0).png" alt="Dashboard" width="700">
 
 ## 📚 Learning Outcomes
 
