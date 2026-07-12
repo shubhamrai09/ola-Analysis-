@@ -136,12 +136,13 @@ Ola-Ride-Analytics/
 
 ## 📸 Dashboard Preview
 
-<img src="C:\Users\Shubham\OneDrive\Pictures\Screenshots\Ola_project (0).png" alt="Dashboard" width="700">
 <img width="1885" height="920" alt<img width="1075" height="592" alt="Ola_project (0)" src="https://github.com/user-attachments/assets/4e6a0158-dd48-467e-90d2-a8ae0ba9e849" />
- src="https://github.com/user-attachments/assets/4f49ac0d-4bb2-49c8-9207-27959f4724f4" />
-## 📚 Learning Outcomes
 
-This project helped strengthen my understanding of:
+
+<img width="1885" height="920" alt=<img width="1885" height="920" alt="Screenshot 2026-04-17 232435" src="https://github.com/user-attachments/assets/4f49ac0d-4bb2-49c8-9207-27959f4724f4" /> 
+ 
+
+## This project helped strengthen my understanding of:
 
 - Power BI Dashboard Development
 - Business KPI Analysis
