@@ -139,8 +139,6 @@ Ola-Ride-Analytics/
 <img width="1885" height="920" alt<img width="1075" height="592" alt="Ola_project (0)" src="https://github.com/user-attachments/assets/4e6a0158-dd48-467e-90d2-a8ae0ba9e849" />
 
 
-<img width="1885" height="920" alt=<img width="1885" height="920" alt="C:\Users\Shubham\OneDrive\Pictures\Screenshots\Ola_project (1).png" src="https://github.com/user-attachments/assets/4f49ac0d-4bb2-49c8-9207-27959f4724f4" /> 
- 
 
 ## This project helped strengthen my understanding of:
 
